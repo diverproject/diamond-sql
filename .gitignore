@@ -1,0 +1,5 @@
+/composer.phar
+/vendor
+/composer.lock
+/public_html
+/logs
